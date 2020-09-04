@@ -1,6 +1,6 @@
 {
-  "name": "@paytm/hello-cap",
-  "version": "0.1.0",
+  "name": "hello-cap",
+  "version": "1.0.0",
   "description": "Hello Cap description",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
